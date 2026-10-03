@@ -1,5 +1,8 @@
+'use client';
+
 import Link from 'next/link';
 import { Bus, Phone, Mail, Clock, MapPin } from 'lucide-react';
+
 
 export default function Footer() {
   return (

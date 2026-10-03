@@ -1,0 +1,128 @@
+﻿body, html 
+{
+    font-family:Tahoma;
+}
+.x-title-func
+{
+    font-size:16px;
+    font-weight:bold;   
+    padding:5px 0 5px 5px; 
+    border-bottom:solid 1px #fba80d;
+    cursor:pointer;
+}
+.x-title-03
+{
+    font-size:14px;
+    font-weight:bold;
+    line-height:18px;
+    padding:4px 0 4px 0;
+}
+.x-content-03
+{
+    font-size:12px;
+    line-height:18px;
+}
+.x-image-03
+{
+    border:0;
+    text-align:center;
+}
+.x-title-04
+{
+    font-size:13px;
+    font-weight:bold;
+    line-height:18px;
+    padding:2px 0 2px 0;
+}
+.x-title-05
+{
+    font-size:13px;
+    font-weight:bold;
+    line-height:18px;
+    font-style:italic;
+    color:#00781d;
+    padding:2px 0 2px 0;
+}
+
+/*------------------------------------------*/
+
+.m-fleet-bound
+{
+    border-right:solid 1px #DBDBDB;
+    border-bottom:solid 1px #DBDBDB;
+    border-spacing: 0;
+    width: 90%;
+    text-align: center;
+}
+
+.m-fleet-bound tr td {
+    padding: 5px;
+}
+
+/*------------------------------------------*/
+
+
+
+.m-fleet-title
+{
+    font-size:13px;
+    font-weight:bold;
+    line-height:18px;
+    background-color:#60A7E1;
+    padding:5px 0 5px 10px;
+    color:White;
+    text-transform: uppercase;
+}
+
+.m-fleet-title span {
+    color: red;
+    font-style: italic;
+    font-weight: normal;
+
+}
+
+.m-fleet-item-title
+{
+    font-size:13px;
+    padding:3px 0 3px 10px;
+    border-left:solid 1px #DBDBDB;
+    border-bottom:solid 1px #DBDBDB;
+    font-weight:bolder;
+}
+.m-fleet-item-content
+{
+    font-size:13px;
+    padding:3px 0 3px 10px;
+    border-left:solid 1px #DBDBDB;
+    border-bottom:solid 1px #DBDBDB;
+}
+.m-article-item-title
+{
+    font-size:13px;
+    font-weight:bold;
+    padding:3px 0 3px 10px;
+    border-top:dotted 1px #DBDBDB;
+    cursor:pointer;
+    text-decoration:none;
+}
+.m-article-item-title a
+{
+    font-size:13px;
+    text-decoration:none;
+    color:#00559E;
+}
+.m-article-item-title a:hover
+{
+    font-size:13px;
+    text-decoration:underline;
+}
+.m-article-item-content
+{
+    font-size:12px;
+    font-style:italic;
+    padding:3px 0 10px 15px;
+}
+
+.txtRoad-back-search , .txtRoad-go-search {
+    text-align: left;
+}
